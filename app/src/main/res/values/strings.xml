@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rental Genie</string>
+    <string name="bussiness_name">Rental Genie,A online home rental portal</string>
+    <string name="address">#32,SilkBoard,Bangalore</string>
+    <string name="phone">+91-999555444</string>
+    <string name="web">www.RentalGenie.com</string>
+</resources>
